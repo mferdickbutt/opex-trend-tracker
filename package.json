@@ -1,0 +1,9 @@
+{
+  "name": "opex-trend-tracker",
+  "private": true,
+  "description": "Operating expense trend tracker with baked first-paint HTML.",
+  "scripts": {
+    "render": "node scripts/render-static.js",
+    "test": "bash scripts/test.sh"
+  }
+}

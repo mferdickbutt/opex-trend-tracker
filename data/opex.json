@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "title": "OPEX Trend Tracker",
+    "currency": "USD",
+    "updated": "2026-09-16",
+    "coverage": "2025-04/2026-09",
+    "monthCount": 18,
+    "note": "Sample operating expenses by category with monthly revenue and comparison targets."
+  },
+  "targets": {
+    "monthlyOpex": 85000,
+    "opexToRevenue": 0.68,
+    "categoryMix": {
+      "payroll": 0.58,
+      "software": 0.14,
+      "facilities": 0.12,
+      "marketing": 0.1,
+      "other": 0.06
+    }
+  },
+  "months": [
+    {
+      "month": "2025-04",
+      "revenue": 116000,
+      "opex": {
+        "payroll": 46220,
+        "software": 10800,
+        "facilities": 9600,
+        "marketing": 6400,
+        "other": 3600
+      }
+    },
+    {
+      "month": "2025-05",
+      "revenue": 119050,
+      "opex": {
+        "payroll": 46560,
+        "software": 10940,
+        "facilities": 9350,
+        "marketing": 6480,
+        "other": 3830
+      }
+    },
+    {
+      "month": "2025-06",
+      "revenue": 122100,
+      "opex": {
+        "payroll": 47320,
+        "software": 11080,
+        "facilities": 9350,
+        "marketing": 6560,
+        "other": 4360
+      }
+    },
+    {
+      "month": "2025-07",
+      "revenue": 125150,
+      "opex": {
+        "payroll": 48500,
+        "software": 11220,
+        "facilities": 9350,
+        "marketing": 6640,
+        "other": 4590
+      }
+    },
+    {
+      "month": "2025-08",
+      "revenue": 124600,
+      "opex": {
+        "payroll": 48840,
+        "software": 11360,
+        "facilities": 9350,
+        "marketing": 6720,
+        "other": 5120
+      }
+    },
+    {
+      "month": "2025-09",
+      "revenue": 127650,
+      "opex": {
+        "payroll": 49600,
+        "software": 11500,
+        "facilities": 9350,
+        "marketing": 8900,
+        "other": 3450
+      }
+    },
+    {
+      "month": "2025-10",
+      "revenue": 130700,
+      "opex": {
+        "payroll": 50780,
+        "software": 11640,
+        "facilities": 9600,
+        "marketing": 6880,
+        "other": 3980
+      }
+    },
+    {
+      "month": "2025-11",
+      "revenue": 133750,
+      "opex": {
+        "payroll": 51120,
+        "software": 11780,
+        "facilities": 9350,
+        "marketing": 11160,
+        "other": 4210
+      }
+    },
+    {
+      "month": "2025-12",
+      "revenue": 141200,
+      "opex": {
+        "payroll": 51880,
+        "software": 11920,
+        "facilities": 9350,
+        "marketing": 11240,
+        "other": 4740
+      }
+    },
+    {
+      "month": "2026-01",
+      "revenue": 136250,
+      "opex": {
+        "payroll": 53060,
+        "software": 12060,
+        "facilities": 10000,
+        "marketing": 7120,
+        "other": 4970
+      }
+    },
+    {
+      "month": "2026-02",
+      "revenue": 134800,
+      "opex": {
+        "payroll": 53400,
+        "software": 14000,
+        "facilities": 9350,
+        "marketing": 7200,
+        "other": 3600
+      }
+    },
+    {
+      "month": "2026-03",
+      "revenue": 142350,
+      "opex": {
+        "payroll": 54160,
+        "software": 14140,
+        "facilities": 9350,
+        "marketing": 7280,
+        "other": 3830
+      }
+    },
+    {
+      "month": "2026-04",
+      "revenue": 141800,
+      "opex": {
+        "payroll": 55340,
+        "software": 14280,
+        "facilities": 9600,
+        "marketing": 7360,
+        "other": 4360
+      }
+    },
+    {
+      "month": "2026-05",
+      "revenue": 144850,
+      "opex": {
+        "payroll": 55680,
+        "software": 14420,
+        "facilities": 9350,
+        "marketing": 7440,
+        "other": 4590
+      }
+    },
+    {
+      "month": "2026-06",
+      "revenue": 147900,
+      "opex": {
+        "payroll": 56440,
+        "software": 14560,
+        "facilities": 9350,
+        "marketing": 7520,
+        "other": 5120
+      }
+    },
+    {
+      "month": "2026-07",
+      "revenue": 150950,
+      "opex": {
+        "payroll": 57620,
+        "software": 14700,
+        "facilities": 9350,
+        "marketing": 7600,
+        "other": 3450
+      }
+    },
+    {
+      "month": "2026-08",
+      "revenue": 150400,
+      "opex": {
+        "payroll": 57960,
+        "software": 14840,
+        "facilities": 9350,
+        "marketing": 7680,
+        "other": 3980
+      }
+    },
+    {
+      "month": "2026-09",
+      "revenue": 153450,
+      "opex": {
+        "payroll": 58720,
+        "software": 14980,
+        "facilities": 9350,
+        "marketing": 9860,
+        "other": 4210
+      }
+    }
+  ]
+}
